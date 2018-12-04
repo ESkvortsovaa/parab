@@ -1,0 +1,84 @@
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.Form1.resources
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.Properties.Resources.resources
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.Cache
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\WindowsApplication.exe
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\WindowsApplication.pdb
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\ZedGraph.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\ZedGraph.xml
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\de\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\es\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\fr\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\hu\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\it\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\ja\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\pt\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\sv\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\tr\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.exe
+C:\Учеба\4 семестр 7272\Контрольные\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.pdb
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\obj\Debug\WindowsApplication.exe
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\obj\Debug\WindowsApplication.pdb
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\WindowsApplication.exe
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\WindowsApplication.pdb
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\ZedGraph.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\ZedGraph.xml
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\de\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\es\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\fr\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\hu\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\it\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\ja\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\pt\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\sv\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\tr\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\obj\Debug\WindowsApplication.Form1.resources
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\obj\Debug\WindowsApplication.Properties.Resources.resources
+C:\Учеба\4 семестр 7272\Контрольные\Построение параболы(ZedGraph)\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\WindowsApplication.exe
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\WindowsApplication.pdb
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\ZedGraph.xml
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\asus\Desktop\WindowsApplication\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\asus\Desktop\WindowsApplication\obj\Debug\WindowsApplication.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\WindowsApplication\obj\Debug\WindowsApplication.Form1.resources
+C:\Users\asus\Desktop\WindowsApplication\obj\Debug\WindowsApplication.Properties.Resources.resources
+C:\Users\asus\Desktop\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\WindowsApplication\obj\Debug\WindowsApplication.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\WindowsApplication\obj\Debug\WindowsApplication.exe
+C:\Users\asus\Desktop\WindowsApplication\obj\Debug\WindowsApplication.pdb
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\WindowsApplication.exe
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\WindowsApplication.pdb
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\ZedGraph.xml
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\asus\Desktop\all\WindowsApplication\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\asus\Desktop\all\WindowsApplication\obj\Debug\WindowsApplication.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\all\WindowsApplication\obj\Debug\WindowsApplication.Form1.resources
+C:\Users\asus\Desktop\all\WindowsApplication\obj\Debug\WindowsApplication.Properties.Resources.resources
+C:\Users\asus\Desktop\all\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\all\WindowsApplication\obj\Debug\WindowsApplication.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\all\WindowsApplication\obj\Debug\WindowsApplication.exe
+C:\Users\asus\Desktop\all\WindowsApplication\obj\Debug\WindowsApplication.pdb
